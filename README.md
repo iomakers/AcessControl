@@ -24,7 +24,7 @@ O esp12E recebe o sinal do cartão RFID ou Sinal de digital, envia o dado para o
 
 
 
-# Referências 
+# Referências
 
 [Passport Bearer Token](https://github.com/jaredhanson/passport-http-bearer)
 
@@ -33,3 +33,5 @@ O esp12E recebe o sinal do cartão RFID ou Sinal de digital, envia o dado para o
 [Example with express](https://github.com/passport/express-4.x-http-bearer-example)
 
 [HTTP client with header](https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266HTTPClient/examples/Authorization/Authorization.ino)
+
+[HTTPS Example](https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/examples/HTTPSRequestCACert/HTTPSRequestCACert.ino)
